@@ -1,1 +1,3 @@
-# Calculator build in HTML, CSS, Js Created by - Jaykant kumar
+# Calculator build in Using HTML, CSS, Js.
+Auther name :- JAYKANT KUMAR
+(1) project TechnoHack. 
